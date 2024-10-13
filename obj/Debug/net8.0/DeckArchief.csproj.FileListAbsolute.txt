@@ -134,3 +134,4 @@ C:\Users\mslie\source\repos\DeckArchief\obj\Debug\net8.0\refint\DeckArchief.dll
 C:\Users\mslie\source\repos\DeckArchief\obj\Debug\net8.0\DeckArchief.pdb
 C:\Users\mslie\source\repos\DeckArchief\obj\Debug\net8.0\DeckArchief.genruntimeconfig.cache
 C:\Users\mslie\source\repos\DeckArchief\obj\Debug\net8.0\ref\DeckArchief.dll
+C:\Users\mslie\source\repos\DeckArchief\obj\Debug\net8.0\DeckArchief.sourcelink.json

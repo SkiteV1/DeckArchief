@@ -11,16 +11,16 @@
       "RelativeMoniker": "D:0:0:{3AFCCD12-9F87-444D-A6D7-8FF98996288A}|DeckArchief.csproj|solutionrelative:viewmodels\\viewdecks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3AFCCD12-9F87-444D-A6D7-8FF98996288A}|DeckArchief.csproj|c:\\users\\mslie\\source\\repos\\deckarchief\\data\\deckdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AFCCD12-9F87-444D-A6D7-8FF98996288A}|DeckArchief.csproj|solutionrelative:data\\deckdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3AFCCD12-9F87-444D-A6D7-8FF98996288A}|DeckArchief.csproj|c:\\users\\mslie\\source\\repos\\deckarchief\\views\\decks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3AFCCD12-9F87-444D-A6D7-8FF98996288A}|DeckArchief.csproj|solutionrelative:views\\decks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3AFCCD12-9F87-444D-A6D7-8FF98996288A}|DeckArchief.csproj|c:\\users\\mslie\\source\\repos\\deckarchief\\views\\decks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3AFCCD12-9F87-444D-A6D7-8FF98996288A}|DeckArchief.csproj|solutionrelative:views\\decks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AFCCD12-9F87-444D-A6D7-8FF98996288A}|DeckArchief.csproj|c:\\users\\mslie\\source\\repos\\deckarchief\\data\\deckdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AFCCD12-9F87-444D-A6D7-8FF98996288A}|DeckArchief.csproj|solutionrelative:data\\deckdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3AFCCD12-9F87-444D-A6D7-8FF98996288A}|DeckArchief.csproj|c:\\users\\mslie\\source\\repos\\deckarchief\\models\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -81,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\mslie\\source\\repos\\DeckArchief\\Views\\Decks\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Decks\\Create.cshtml",
@@ -89,8 +89,7 @@
               "RelativeToolTip": "Views\\Decks\\Create.cshtml",
               "ViewState": "AgIAACoAAAAAAAAAAAAAADkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-13T14:23:11.233Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T14:23:11.233Z"
             },
             {
               "$type": "Document",
@@ -102,12 +101,11 @@
               "RelativeToolTip": "..\\DeckArchiefAPI\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T14:13:28.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T14:13:28.948Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\mslie\\source\\repos\\DeckArchief\\Views\\Decks\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Decks\\Index.cshtml",
@@ -115,8 +113,7 @@
               "RelativeToolTip": "Views\\Decks\\Index.cshtml",
               "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-13T12:14:48.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T12:14:48.675Z"
             },
             {
               "$type": "Document",
@@ -139,7 +136,7 @@
               "RelativeDocumentMoniker": "Controllers\\DecksController.cs",
               "ToolTip": "C:\\Users\\mslie\\source\\repos\\DeckArchief\\Controllers\\DecksController.cs",
               "RelativeToolTip": "Controllers\\DecksController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAywDAAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAFMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T11:57:46.493Z",
               "EditorCaption": ""
@@ -154,8 +151,7 @@
               "RelativeToolTip": "Models\\Deck.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAYwBMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T09:05:46.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T09:05:46.14Z"
             },
             {
               "$type": "Document",
@@ -167,8 +163,7 @@
               "RelativeToolTip": "Views\\Brands\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-10T21:00:25.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T21:00:25.441Z"
             },
             {
               "$type": "Document",
@@ -180,8 +175,7 @@
               "RelativeToolTip": "Models\\Brand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T20:56:12.262Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T20:56:12.262Z"
             },
             {
               "$type": "Document",
@@ -193,8 +187,7 @@
               "RelativeToolTip": "ViewModels\\ViewBrands.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T20:55:58.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T20:55:58.688Z"
             },
             {
               "$type": "Document",
@@ -206,8 +199,7 @@
               "RelativeToolTip": "Controllers\\BrandsController.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAywBYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T20:48:32.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T20:48:32.406Z"
             },
             {
               "$type": "Document",
@@ -219,8 +211,7 @@
               "RelativeToolTip": "wwwroot\\css\\VaporTemplate.css",
               "ViewState": "AgIAAJ8BAAAAAAAAAADwvx4BAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-10T15:15:18.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T15:15:18.212Z"
             },
             {
               "$type": "Document",
@@ -232,8 +223,7 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAoAAAAAAAAAAAAAABwAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-10T14:36:52.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T14:36:52.448Z"
             },
             {
               "$type": "Document",
@@ -245,18 +235,17 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T17:56:21.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T17:56:21.493Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "DeckDbContext.cs",
               "DocumentMoniker": "C:\\Users\\mslie\\source\\repos\\DeckArchief\\Data\\DeckDbContext.cs",
               "RelativeDocumentMoniker": "Data\\DeckDbContext.cs",
               "ToolTip": "C:\\Users\\mslie\\source\\repos\\DeckArchief\\Data\\DeckDbContext.cs",
               "RelativeToolTip": "Data\\DeckDbContext.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAAwGgAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwGgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-26T17:51:10.655Z",
               "EditorCaption": ""
