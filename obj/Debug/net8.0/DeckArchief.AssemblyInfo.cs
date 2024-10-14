@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DeckArchief")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3497c57e2cbca7023796d14f07e69e5e96a20d62")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81e6084b4af0345c5f28f9d31b13e54efbebc3de")]
 [assembly: System.Reflection.AssemblyProductAttribute("DeckArchief")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DeckArchief")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
