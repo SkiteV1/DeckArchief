@@ -1,0 +1,65 @@
+﻿@model DeckArchief.ViewModels.ViewDecks
+
+@{
+	ViewData["Title"] = "Edit deck";
+}
+
+<h3>@ViewData["Title"]</h3>
+<hr />
+<form action="Edit" method="post">
+	<div class=" mb-3">
+		<label class="form-label">Id</label>
+		<input type="text" class="form-control" asp-for="Id" readonly />
+	</div>
+	<div class="mb-3">
+		<label class="form-label">Name</label>
+		<input type="text" class="form-control" asp-for="Name" />
+		<span asp-validation-for="Name" class="text-primary"></span>
+	</div>
+	<div class="mb-3">
+		<label class="form-label">Series</label>
+		<input type="text" class="form-control" asp-for="Series" />
+		<span asp-validation-for="Series" class="text-primary"></span>
+	</div>
+	<div class="mb-3">
+		<label class="form-label">Price</label>
+		<div class="form-input-group">
+			<span class="input-group-text">€</span>
+			<input type="text" class="form-control" asp-for="Price" />
+		</div>
+		<span asp-validation-for="Price" class="text-primary"></span>
+	</div>
+	<div class="mb-3">
+		<label class="form-label">Brand</label>
+		<input type="text" class="form-control" asp-for="BrandName" />
+		<span asp-validation-for="BrandName" class="text-primary"></span>
+	</div>
+	<div class="mb-3">
+		<label class="form-label">Producer</label>
+		<input type="text" class="form-control" asp-for="ProducerName" />
+		<span asp-validation-for="ProducerName" class="text-primary"></span>
+	</div>
+	<div class="mb-3">
+		<label class="form-label">Designer</label>
+		<input type="text" class="form-control" asp-for="Designer" />
+		<span asp-validation-for="Designer" class="text-primary"></span>
+	</div>
+	<div class="mb-3">
+		<label class="form-label">Color</label>
+		<input type="text" class="form-control" asp-for="Color" />
+		<span asp-validation-for="Color" class="text-primary"></span>
+	</div>
+	<div class="mb-3">
+		<label class="form-label">Current value</label>
+		<div class="form-input-group">
+			<span class="input-group-text">€</span>
+			<input type="text" class="form-control" asp-for="CurrentValue1" />
+		</div>
+		<span asp-validation-for="CurrentValue1" class="text-primary"></span>
+	</div>
+	<div class="d-grid">
+		<button type="submit" class="btn btn-primary">Update deck information</button>
+	</div>
+	<hr />
+	<hr />
+</form>

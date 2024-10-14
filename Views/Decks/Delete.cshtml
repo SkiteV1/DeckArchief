@@ -1,0 +1,57 @@
+﻿@model DeckArchief.ViewModels.ViewDecks
+
+@{
+	ViewData["Title"] = "Delete deck";
+}
+
+<h3>@ViewData["Title"]</h3>
+<hr />
+<form action="Delete" method="post">
+	<div class=" mb-3">
+		<label class="form-label">Id</label>
+		<input type="text" class="form-control" asp-for="Id" readonly />
+	</div>
+	<div class="mb-3">
+		<label class="form-label">Name</label>
+		<input type="text" class="form-control" asp-for="Name" readonly />
+	</div>
+	<div class="mb-3">
+		<label class="form-label">Series</label>
+		<input type="text" class="form-control" asp-for="Series" readonly />
+	</div>
+	<div class="mb-3">
+		<label class="form-label">Price</label>
+		<div class="form-input-group">
+			<span class="input-group-text">€</span>
+			<input type="text" class="form-control" asp-for="Price" readonly />
+		</div>
+	</div>
+	<div class="mb-3">
+		<label class="form-label">Brand</label>
+		<input type="text" class="form-control" asp-for="BrandName" readonly />
+	</div>
+	<div class="mb-3">
+		<label class="form-label">Producer</label>
+		<input type="text" class="form-control" asp-for="ProducerName" readonly />
+	</div>
+	<div class="mb-3">
+		<label class="form-label">Designer</label>
+		<input type="text" class="form-control" asp-for="Designer" readonly />
+	</div>
+	<div class="mb-3">
+		<label class="form-label">Color</label>
+		<input type="text" class="form-control" asp-for="Color" readonly />
+	</div>
+	<div class="mb-3">
+		<label class="form-label">Current value</label>
+		<div class="form-input-group">
+			<span class="input-group-text">€</span>
+			<input type="text" class="form-control" asp-for="CurrentValue1" readonly />
+		</div>
+	</div>
+	<div class="d-grid">
+		<button type="submit" class="btn btn-danger" onclick="return function('Are you sure you want to delete deck @Model.Name ?')">Delete deck</button>
+	</div>
+	<hr />
+	<hr />
+</form>
